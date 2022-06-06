@@ -1,0 +1,5 @@
+@media (max-width: 330px) {
+    .card>card-body>card-title{
+        font-size: xx-small;
+    }
+ }

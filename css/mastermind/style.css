@@ -1,0 +1,148 @@
+.mainbg {
+  height: 120vh;
+  background-image: url("../../images/mainbg.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mainbgg {
+  height: 90vh;
+  background-image: url("../../images/mainbg.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mainbggg {
+  height: 90vh;
+  background-image: url("../../images/plane.webp");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.nav_wrapper .nav-link {
+  color: white;
+}
+.navbar-brand {
+  font-weight: 800;
+  color: white;
+}
+.navbar-toggler:focus {
+  outline: unset;
+}
+.bg-perpale {
+  background-color: #6f42c1;
+}
+
+.mt--3 {
+  margin-top: -150px;
+
+  margin-left: 130px;
+  
+  z-index: 1000;
+}
+
+.mt-5000 {
+  z-index: 1000;
+  margin-top: -80px;
+}
+h1 {
+  font-size: 3rem;
+  font-weight: 500;
+}
+/*span {
+  font-weight: 700;
+}*/
+.p-text {
+  font-weight: 500;
+  color: #ccffff;
+}
+.bg-perpal {
+  background-color: #523970;
+}
+.text-color {
+  color: #523970;
+}
+.circle {
+  height: 80px;
+  width: 80px;
+ border: 2px solid #523970;
+  background-color: #523970;
+  position: relative;
+ 
+}
+.icon-size {
+  font-size: 30px;
+  color: rgb(46, 46, 221);
+}
+.mt-50 {
+  margin-top: -190px;
+}
+.mt-40 {
+  margin-top: -60px;
+  z-index: 1000;
+  position: relative;
+}
+.mt-middle {
+  margin-top: 150px;
+}
+.w-full {
+  width: 90%;
+}
+.line-height {
+  line-height: 20px;
+}
+.bg-rgb {
+  background-color: #ccffff;
+}
+.bg {
+  background-color: #800080;
+}
+.bg-99{
+  background-color: #ffffff;
+}
+.bgg {
+  height: 100vh;
+  background-image: url("../../images/ss-dots-pattern-bg.svg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.font-reg {
+  font-weight: 500;
+}
+.font-700{
+  font-weight: 700;
+}
+.bg-whit {
+  background-color: aliceblue;
+}
+.bg-card {
+    background-color: rgba(35, 14, 224, 0.671);
+}
+.mt-center {
+  margin-top: -20px;
+  width: 300px;
+  height: 30px;
+  margin-left: 80px;
+}
+.mt-300 {
+  margin-top: -25px;
+}
+.rounded-5{
+  border-radius: 14px;
+}
+.small-font{
+  font-size: smaller;
+}
+.x-small{
+  font-size: small;
+}
+.extra-small-font{
+  font-size:x-small;
+}
+.borderer{
+  border: 2px solid #523970;
+}
+.borderr{
+  border:1px solid gray ;
+}

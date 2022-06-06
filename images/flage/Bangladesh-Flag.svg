@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="20px" viewBox="0 0 28 20" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 61.2 (101010) - https://sketch.com -->
+    <title>DE4793FF-C82E-499F-A5B7-6D9E40C65433</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="28" height="20" rx="2"></rect>
+    </defs>
+    <g id="New-flyhub" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.-Flyhub-Website-V1.0" transform="translate(-566.000000, -4951.000000)">
+            <g id="09-Footer" transform="translate(258.000000, 4595.000000)">
+                <g id="Group-14" transform="translate(3.000000, 282.000000)">
+                    <g id="Group-28">
+                        <g id="Group-34" transform="translate(61.000000, 71.000000)">
+                            <g id="Bangladesh-2" transform="translate(244.000000, 3.000000)">
+                                <g id="BD">
+                                    <mask id="mask-2" fill="white">
+                                        <use xlink:href="#path-1"></use>
+                                    </mask>
+                                    <use id="Mask" fill="#FFFFFF" xlink:href="#path-1"></use>
+                                    <rect id="Mask-Copy" fill="#128363" mask="url(#mask-2)" x="0" y="0" width="28" height="20"></rect>
+                                    <circle id="Oval-9" fill="#F23C53" mask="url(#mask-2)" cx="12.6666667" cy="10" r="6"></circle>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

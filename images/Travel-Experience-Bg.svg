@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1110px" height="349px" viewBox="0 0 1110 349" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>3AB6E08B-F29C-48F3-BE30-E8D63BE011B3</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="1110" height="349" rx="4"></rect>
+    </defs>
+    <g id="New-flyhub" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01.-Flyhub-Website-V1.0" transform="translate(-260.000000, -4071.000000)">
+            <g id="08-Call-to-action-" transform="translate(260.000000, 4071.000000)">
+                <g id="bg">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#002441" xlink:href="#path-1"></use>
+                    <g id="header-bg-pattern" mask="url(#mask-2)">
+                        <g transform="translate(-307.000000, -817.000000)">
+                            <polygon id="Triangle" fill="#1D68A4" opacity="0.0439877717" points="582.255 502.96712 72 981.93424 72 24"></polygon>
+                            <path d="M1499.77617,1246.33583 L1113,1609 L1113,1609 L1113,872 L1499.77617,1234.66417 C1502.99921,1237.68628 1503.16209,1242.74898 1500.13998,1245.97202 C1500.02264,1246.09716 1499.90131,1246.2185 1499.77617,1246.33583 Z" id="Triangle-Copy-3" fill="#0077D7" opacity="0.453101749" transform="translate(1309.500000, 1240.500000) rotate(-90.000000) translate(-1309.500000, -1240.500000) "></path>
+                            <path d="M911.255,478.96712 L414.475197,945.285317 C411.253799,948.309185 406.191011,948.149055 403.167143,944.927657 C401.774926,943.444496 401,941.486677 401,939.45246 L401,0 L401,0 L911.255,478.96712 Z" id="Triangle-Copy-2" fill="#0077D7" opacity="0.453101749"></path>
+                            <polygon id="Triangle-Copy" fill="#0077D7" opacity="0.453101749" transform="translate(291.000000, 1189.000000) rotate(-90.000000) translate(-291.000000, -1189.000000) " points="446 1189 136 1480 136 898"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
