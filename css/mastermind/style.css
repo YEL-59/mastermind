@@ -140,6 +140,9 @@ h1 {
 .extra-small-font{
   font-size:x-small;
 }
+.small{
+  font-size: xx-small;
+}
 .borderer{
   border: 2px solid #523970;
 }
