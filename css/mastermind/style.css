@@ -155,3 +155,20 @@ h1 {
 .ms--50{
   margin-right: -40px;
 }
+.slider-background{
+  height: 200px;
+  
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.custom-height{
+  height: 93%;
+  
+}
+.mt--300{
+  margin-top: -10px;
+}
+.opacit{
+  
+}
